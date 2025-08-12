@@ -13,5 +13,9 @@
     "calculator"
   ],
   "author": "Dean Harley Pal <paldeanharley@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dencioo/greatest-sum"
+  }
 }
