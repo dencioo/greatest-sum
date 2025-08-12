@@ -1,0 +1,17 @@
+{
+  "name": "@dencioo/greatest-sum",
+  "version": "1.0.0",
+  "description": "Greatest sum calculator for 3-row slices in 2D arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sum",
+    "array",
+    "2d-array",
+    "calculator"
+  ],
+  "author": "Dean Harley Pal <paldeanharley@gmail.com>",
+  "license": "ISC"
+}
