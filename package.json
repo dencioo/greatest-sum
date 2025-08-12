@@ -1,6 +1,6 @@
 {
   "name": "@dencioo/greatest-sum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Greatest sum calculator for 3-row slices in 2D arrays",
   "main": "index.js",
   "scripts": {
